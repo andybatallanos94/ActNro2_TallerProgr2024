@@ -13,8 +13,8 @@ services:
     ports:
       - "5432:5432"
     environment:
-      MYSQL_USER: gonzalezj
-      MYSQL_PASSWORD: Jesus556
+      MYSQL_USER: batallanosa
+      MYSQL_PASSWORD: Andrea4
       MYSQL_DB: Prueba
 
  phpmyadmin:
